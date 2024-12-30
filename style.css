@@ -161,12 +161,3 @@ span{
       -webkit-text-fill-color: transparent; /* Makes the background visible only through the text */
      
 }
-button a{
-    border: none;
-    background-color: #000;
-    color: #ffffff;
-    padding: 20px 50px;
-    border-radius: 15px;
-    
-    
-}
